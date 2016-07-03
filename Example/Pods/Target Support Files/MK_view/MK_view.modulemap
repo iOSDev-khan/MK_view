@@ -1,0 +1,6 @@
+framework module MK_view {
+  umbrella header "MK_view-umbrella.h"
+
+  export *
+  module * { export * }
+}

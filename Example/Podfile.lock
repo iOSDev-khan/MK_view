@@ -1,0 +1,16 @@
+PODS:
+  - MK_view (0.1.0)
+
+DEPENDENCIES:
+  - MK_view (from `../`)
+
+EXTERNAL SOURCES:
+  MK_view:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MK_view: 49d6106f223d82884f5bc18fe3067640729566d9
+
+PODFILE CHECKSUM: cce195c70c70c215d42085dbefe85019c9797ef2
+
+COCOAPODS: 1.0.1

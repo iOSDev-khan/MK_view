@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MK_view_Example' do
+  pod 'MK_view', :path => '../'
+
+  target 'MK_view_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
